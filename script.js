@@ -135,7 +135,10 @@ const getCountryData = function (country) {
 getCountryData('usa');
 */
 
+<<<<<<< HEAD
 /*
+=======
+>>>>>>> 6e8c2c55dd27b4783d7272439ac2fca8581629d9
 /////////////////////////////////////////////////////////
 // Challenge 1
 
@@ -165,6 +168,7 @@ const whereAmI = function (lat, lng) {
 
 whereAmI(52.502, 13.212);
 whereAmI(19.037, 72.873);
+<<<<<<< HEAD
 */
 
 /*
